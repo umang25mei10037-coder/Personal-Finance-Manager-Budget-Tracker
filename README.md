@@ -69,9 +69,6 @@ personal-finance-manager/
 
 
 
-📸 Screenshots
-
-(Optional: Add screenshots of your running code here)
 
 Main Menu:
 
