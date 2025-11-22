@@ -108,6 +108,6 @@ Faculty: A.V.R. MAYURI
 CSE1021
 
 
-Course: Computer Science Engineering
+
 
 This project was developed for the Semester 1 Python Programming Course
