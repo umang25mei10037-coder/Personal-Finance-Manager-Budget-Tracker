@@ -76,7 +76,7 @@ personal-finance-manager/
 Main Menu:
 
 ==================================================
-   🎓 STUDENT FINANCE MANAGER v2.0   
+   🎓 STUDENT FINANCE MANAGER
 ==================================================
  1. Add Income 💰       6. Savings Goals 🎯
  2. Add Expense 💸      7. Insights 💡
